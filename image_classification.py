@@ -90,7 +90,7 @@ def main():
             st.subheader(f"これは{pred0}％の確率で「猫」です！")
         else:
             st.subheader(f"これは{pred1}％の確率で「犬」です！")
-
+    
 
 # mainの起動
 if __name__ == "__main__":
